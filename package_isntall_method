@@ -1,0 +1,1 @@
+windows 下安装kenlm包：pip install -e git+https://github.com/kpu/kenlm.git#egg=kenlm
